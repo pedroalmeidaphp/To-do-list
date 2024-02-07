@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "tasks",
+    "slug": "tasks",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.phalmeidadev.todolist"
+    },
+    "ios": {
+      "bundleIdentifier": "com.phalmeidadev.todolist"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6f3f7ce7-8e36-40d7-af52-4d3d76bfdaf1"
+      }
+    }
+  }
+}
